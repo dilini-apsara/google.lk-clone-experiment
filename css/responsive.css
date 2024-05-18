@@ -1,0 +1,12 @@
+@media screen and (max-width: 714px) {
+
+
+footer #footer-nav{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+    main #wrapper-search {
+        transform: scaleX(80%);
+    }
+}
