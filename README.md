@@ -23,7 +23,8 @@ You can visit the live version of this project by clicking the link below:
 
 ## Screenshots
 
-![Screenshot of Google.lk Clone](/assets/img.png)
+![Screenshot of Google.lk Clone](/assets/google-1.png)
+![Screenshot of Google.lk Clone](/assets/google-2.png)
 
 
 ## License
